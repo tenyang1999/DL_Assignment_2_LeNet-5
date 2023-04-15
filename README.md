@@ -19,6 +19,9 @@ pip install pandas
 ## 模型架構
 
 - 原始leNet-5架構
+ 
 ![这是圖片](https://github.com/tenyang1999/DL_Assignment_2_LeNet-5/blob/main/leNet5.png "imp_leNet5")
+
 - 更新後leNet-5架構
+
 ![这是圖片](https://github.com/tenyang1999/DL_Assignment_2_LeNet-5/blob/main/imp_leNet5.png "imp_leNet5")
