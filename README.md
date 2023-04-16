@@ -23,3 +23,4 @@ pip install pandas
 
 ## 使用方法
 - 將activation_function、neuron network layer以及criterion寫在各自python檔中，import即可取用
+- 將模型調用於assignmnet2中，將訓練寫在class中可直接使用
